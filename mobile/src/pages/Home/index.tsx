@@ -27,7 +27,7 @@ const Home = () => {
       </View>
     </ImageBackground>
   ) 
-}
+};
 
 const styles = StyleSheet.create({
   container: {
