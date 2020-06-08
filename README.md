@@ -4,8 +4,8 @@
 
 O Ecoleta é um projeto criado para ajudar as pessoas a encontrar pontos de coleta para reciclagem.
 
-Esse projeto foi feito durante a **Next Level Week #01** ministrada pela [Rocketseat](https://rocketseat.com.br/).
-Desse modo, foi desenvolvido um back end em **Node**, uam aplicaoção web em **ReactJS** e um app em **React Native**.
+O projeto foi desenvolvido durante a **Next Level Week #01** ministrada pela [Rocketseat](https://rocketseat.com.br/).
+Desse modo, foi desenvolvido um back end em **Node**, uma aplicação web em **ReactJS** e um app em **React Native**.
 
 # Como utilizar
 
