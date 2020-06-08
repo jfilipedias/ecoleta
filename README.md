@@ -1,3 +1,7 @@
+<h1>
+  <img alt="Ecoleta" title="Ecoleta" src="./assets/logo.png" />
+</h1>
+
 O Ecoleta é um projeto criado para ajudar as pessoas a encontrar pontos de coleta para reciclagem.
 
 Esse projeto foi feito durante a **Next Level Week #01** ministrada pela [Rocketseat](https://rocketseat.com.br/).
@@ -31,13 +35,19 @@ Para utilizar a aplicação é preciso ter o Node instalado na sua maquina.
 
 # Telas
 
+O layout da aplicação foi desenvolvido pela **Rocketseat** e está disponível no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=0%3A1): 
 
-
-## Web
-
-
-## Mobile
-
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="3"><img alt="NextLevelWeek" src="assets/home.png" /></td>
+    <td rowspan="2"><img alt="NextLevelWeek" src="assets/register.png" /></td>
+  </tr>
+  <tr>
+    <td><img alt="NextLevelWeek" src="assets/mobile-start.png" /></td>
+    <td><img alt="NextLevelWeek" src="assets/mobile-home.png" /></td>
+    <td><img alt="NextLevelWeek" src="assets/mobile-details.png" /></td>
+  </tr>
+</table>
 
 # Tecnologias
 
@@ -49,12 +59,17 @@ Algumas das tecnologias utilizadas são:
 - [SQLite3](https://sqlite.org/index.html)
 - [Knex](http://knexjs.org/)
 - [Expo](https://expo.io/)
-- [axios](https://github.com/axios/axios)
+- [Express](https://github.com/expressjs/express)
+- [CORS](https://github.com/expressjs/cors)
+- [Axios](https://github.com/axios/axios)
 - [Leaflet](https://leafletjs.com/)
 - [React Leaflet](https://react-leaflet.js.org/)
-- [react-dropzone](https://react-dropzone.js.org/)
+- [React Router](https://reacttraining.com/react-router/)
+- [React Dropzone](https://react-dropzone.js.org/)
 - [Multer](https://github.com/expressjs/multer)
 - [celebrate](https://github.com/arb/celebrate)
 
 
 # Licença
+
+Esse projeto está sob a licença MIT. Consulte [LICENSE](LICENSE) para mais informações.
