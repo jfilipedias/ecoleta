@@ -39,13 +39,13 @@ O layout da aplicação foi desenvolvido pela **Rocketseat** e está disponível
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td colspan="3"><img alt="NextLevelWeek" src="assets/home.png" /></td>
-    <td rowspan="2"><img alt="NextLevelWeek" src="assets/register.png" /></td>
+    <td colspan="3"><img alt="Front End Home" src="assets/home.png" /></td>
+    <td rowspan="2"><img alt="Front End Cadastro" src="assets/register.png" /></td>
   </tr>
   <tr>
-    <td><img alt="NextLevelWeek" src="assets/mobile-start.png" /></td>
-    <td><img alt="NextLevelWeek" src="assets/mobile-home.png" /></td>
-    <td><img alt="NextLevelWeek" src="assets/mobile-details.png" /></td>
+    <td><img alt="Mobile Início" src="assets/mobile-start.png" /></td>
+    <td><img alt="Mobile Home" src="assets/mobile-home.png" /></td>
+    <td><img alt="Mbile Detalhes" src="assets/mobile-details.png" /></td>
   </tr>
 </table>
 
