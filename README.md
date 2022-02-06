@@ -1,39 +1,45 @@
-<h1>
-  <img alt="Ecoleta" title="Ecoleta" src="./assets/logo.png" />
+<h1 align="center">
+  <img alt="Ecoleta" title="Ecoleta" src="./assets/logo.png" width="400px" />
 </h1>
+
+<p align="center">
+  <img alt="Developer" src="https://img.shields.io/badge/developer-jfilipedias-blue">
+  <img alt="GitHub" src="https://img.shields.io/github/license/jfilipedias/podcastr">
+</p>
+<br>
 
 O Ecoleta é um projeto criado para ajudar as pessoas a encontrar pontos de coleta para reciclagem.
 
 O projeto foi desenvolvido durante a **Next Level Week #01** ministrada pela [Rocketseat](https://rocketseat.com.br/).
 Desse modo, foi desenvolvido um back end em **Node**, uma aplicação web em **ReactJS** e um app em **React Native**.
 
-# Como utilizar
+## Como utilizar
 
 Para utilizar a aplicação é preciso ter o Node instalado na sua maquina.
 
 ```sh
   # Instale as dependências
-  $ npm install
+  $ yarn
 
-  ## Crie o banco de dados
+  # Crie o banco de dados
   $ cd server
-  $ npm run knex:migrate
-  $ npm run knex:seed
+  $ yarn knex:migrate
+  $ yarn knex:seed
 
   # Inicie o back end
-  $ npm run dev
+  $ yarn dev
 
   # Inicie o front end
   $ cd web
-  $ npm start
+  $ yarn start
 
   # Inicie a aplicação mobile
   $ cd mobile
-  $ npm start
+  $ yarn start
 ```
 
 
-# Telas
+## Telas
 
 O layout da aplicação foi desenvolvido pela **Rocketseat** e está disponível no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=0%3A1): 
 
@@ -49,7 +55,7 @@ O layout da aplicação foi desenvolvido pela **Rocketseat** e está disponível
   </tr>
 </table>
 
-# Tecnologias
+## Tecnologias
 
 Algumas das tecnologias utilizadas são:
 
@@ -70,6 +76,6 @@ Algumas das tecnologias utilizadas são:
 - [celebrate](https://github.com/arb/celebrate)
 
 
-# Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Consulte [LICENSE](LICENSE) para mais informações.
